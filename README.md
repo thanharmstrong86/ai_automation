@@ -1,1 +1,2 @@
-This is a README file
+# AI Automation
+This is a README file.
